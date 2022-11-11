@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AIengineer13
-- 👀 I’m interested in  Artificial intelgence , robotics , blockchain and computers. 
-- 🌱 I’m currently learning javascript and algorithms and data struture.
+- 👀 I’m interested in  Artificial intelgence ,blockchain and computers. 
+- 🌱 I’m currently learning javascript,haskell,java, algorithms and data struture.
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 How to reach me 
 
